@@ -1,0 +1,30 @@
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\bin\Debug\net6.0\hellow.exe
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\bin\Debug\net6.0\hellow.deps.json
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\bin\Debug\net6.0\hellow.runtimeconfig.json
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\bin\Debug\net6.0\hellow.dll
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\bin\Debug\net6.0\hellow.pdb
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.dll
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\refint\hellow.dll
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.pdb
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\тыц тыыц клава\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\ref\hellow.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\bin\Debug\net6.0\hellow.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\bin\Debug\net6.0\hellow.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\bin\Debug\net6.0\hellow.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\bin\Debug\net6.0\hellow.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\bin\Debug\net6.0\hellow.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\refint\hellow.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\hellow.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\hellow\obj\Debug\net6.0\ref\hellow.dll
