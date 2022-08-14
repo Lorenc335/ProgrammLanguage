@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\obj\Debug\net6.0\programm_UserPremium.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\obj\Debug\net6.0\programm_UserPremium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\obj\Debug\net6.0\programm_UserPremium.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\obj\Debug\net6.0\programm_UserPremium.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\obj\Debug\net6.0\programm_UserPremium.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\bin\Debug\net6.0\programm_UserPremium.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\bin\Debug\net6.0\programm_UserPremium.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\bin\Debug\net6.0\programm_UserPremium.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\bin\Debug\net6.0\programm_UserPremium.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\bin\Debug\net6.0\programm_UserPremium.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\obj\Debug\net6.0\programm_UserPremium.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\obj\Debug\net6.0\refint\programm_UserPremium.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\obj\Debug\net6.0\programm_UserPremium.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\obj\Debug\net6.0\programm_UserPremium.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_UserPremium\obj\Debug\net6.0\ref\programm_UserPremium.dll

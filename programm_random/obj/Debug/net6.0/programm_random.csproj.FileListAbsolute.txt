@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\bin\Debug\net6.0\programm_random.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\bin\Debug\net6.0\programm_random.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\bin\Debug\net6.0\programm_random.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\bin\Debug\net6.0\programm_random.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\bin\Debug\net6.0\programm_random.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\obj\Debug\net6.0\programm_random.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\obj\Debug\net6.0\programm_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\obj\Debug\net6.0\programm_random.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\obj\Debug\net6.0\programm_random.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\obj\Debug\net6.0\programm_random.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\obj\Debug\net6.0\programm_random.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\obj\Debug\net6.0\refint\programm_random.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\obj\Debug\net6.0\programm_random.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\obj\Debug\net6.0\programm_random.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_random\obj\Debug\net6.0\ref\programm_random.dll

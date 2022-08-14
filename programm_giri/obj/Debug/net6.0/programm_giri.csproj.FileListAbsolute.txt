@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\bin\Debug\net6.0\programm_giri.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\bin\Debug\net6.0\programm_giri.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\bin\Debug\net6.0\programm_giri.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\bin\Debug\net6.0\programm_giri.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\bin\Debug\net6.0\programm_giri.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\obj\Debug\net6.0\programm_giri.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\obj\Debug\net6.0\programm_giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\obj\Debug\net6.0\programm_giri.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\obj\Debug\net6.0\programm_giri.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\obj\Debug\net6.0\programm_giri.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\obj\Debug\net6.0\programm_giri.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\obj\Debug\net6.0\refint\programm_giri.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\obj\Debug\net6.0\programm_giri.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\obj\Debug\net6.0\programm_giri.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_giri\obj\Debug\net6.0\ref\programm_giri.dll

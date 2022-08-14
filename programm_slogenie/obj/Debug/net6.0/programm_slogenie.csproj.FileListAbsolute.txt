@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\bin\Debug\net6.0\programm_slogenie.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\bin\Debug\net6.0\programm_slogenie.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\bin\Debug\net6.0\programm_slogenie.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\bin\Debug\net6.0\programm_slogenie.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\bin\Debug\net6.0\programm_slogenie.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\obj\Debug\net6.0\programm_slogenie.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\obj\Debug\net6.0\programm_slogenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\obj\Debug\net6.0\programm_slogenie.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\obj\Debug\net6.0\programm_slogenie.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\obj\Debug\net6.0\programm_slogenie.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\obj\Debug\net6.0\programm_slogenie.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\obj\Debug\net6.0\refint\programm_slogenie.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\obj\Debug\net6.0\programm_slogenie.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\obj\Debug\net6.0\programm_slogenie.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_slogenie\obj\Debug\net6.0\ref\programm_slogenie.dll
