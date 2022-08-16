@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\obj\Debug\net6.0\programm_array_find.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\obj\Debug\net6.0\programm_array_find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\obj\Debug\net6.0\programm_array_find.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\obj\Debug\net6.0\programm_array_find.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\obj\Debug\net6.0\programm_array_find.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\bin\Debug\net6.0\programm_array_find.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\bin\Debug\net6.0\programm_array_find.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\bin\Debug\net6.0\programm_array_find.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\bin\Debug\net6.0\programm_array_find.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\bin\Debug\net6.0\programm_array_find.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\obj\Debug\net6.0\programm_array_find.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\obj\Debug\net6.0\refint\programm_array_find.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\obj\Debug\net6.0\programm_array_find.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\obj\Debug\net6.0\programm_array_find.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\языки программирования\programm_array_find\obj\Debug\net6.0\ref\programm_array_find.dll
